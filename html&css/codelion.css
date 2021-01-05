@@ -13,12 +13,6 @@ body {
     min-width: fit-content;
 }
 
-.name-text {
-    font-size: 17px;
-    color: #7c7c7c
-    font-weight: bold;
-}
-
 .mainbox {
     border: 1px solid #ebebeb;
     width: 610px;
@@ -35,4 +29,33 @@ footer {
     color: #919191;
     font-size: 12px;
     padding: 20px;
+}
+
+section {
+    margin-bottom: 24px;
+}
+
+.name-text {
+    font-size: 16px;
+    font-weight: bold;
+    color: #7c7c7c;
+}
+
+.about-me-text {
+    font-size: 10px;
+    line-height: 16px;
+}
+
+.title-text {
+    font-size: 11px;
+    font-weight: bold;
+    color: #282828;
+    float: left;
+}
+
+.year-text {
+    font-size: 11px;
+    font-weight: bold;
+    color: #282828;
+    float: right;
 }
