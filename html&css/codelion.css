@@ -17,13 +17,12 @@ h1 {
     font-size: 36px;
     font-weight: bold;
     font-style: italic;
-    margin-bottom: 8px;
 }
 
 h2 {
     font-size: 20px;
     color: #282828;
-    font-weight: lighter;
+    font-weight: bold;
     margin-bottom: 16px;
     border-bottom: 1px solid #ebebeb;
     padding-bottom: 5px;
@@ -71,7 +70,6 @@ section {
 
 .float-wrap {
     overflow : hidden;
-    margin-bottom: 4px;
 }
 
 .desc-text {
@@ -81,17 +79,8 @@ section {
 
 .desc-subtext {
     padding-left: 16px;
-    margin-bottom: 8px;
     font-size: 9px;
     color:#282828    
-}
-
-footer {
-    text-align: center;
-    background-color: #1E1E1E;
-    color: #919191;
-    font-size: 12px;
-    padding: 20px;
 }
 
 .title-box {
@@ -105,4 +94,12 @@ footer {
 
 .sns-wrap {
     text-align: right;
+}
+
+footer {
+    text-align: center;
+    background-color: #1E1E1E;
+    color: #919191;
+    font-size: 12px;
+    padding: 20px;
 }
