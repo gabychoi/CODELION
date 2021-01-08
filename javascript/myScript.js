@@ -1,1 +1,0 @@
-document.write('최호진 짱짱')
